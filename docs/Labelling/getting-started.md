@@ -2,12 +2,12 @@
 title: 'Getting Started'
 author: 'Darwin Jull'
 date: '2024-11-07'
-last_modified_date: '2024-11-11'
+last_modified_date: '2024-11-12'
 ---
 
 ## Joining The Workspace:
-Once you have received an invitation to the LabelBox project, you will need to create an account if you currently do not have one.
-Depending on your permissions, you will have access to one or multiple projects on the labelbox site.
+Once you have received an invitation to the LabelBox project, you will need to create an account if you do not already have one.
+Depending on your permissions, you will have access to one or multiple projects on the LabelBox site.
 You can get started with labelling or reviewing right away. Instructions should be provided for whatever step you are working on.
 
 Clarification for instructions can be found in ["Projects and Tasks"](projects-and-tasks).
@@ -27,7 +27,7 @@ If you encounter a problem while labelling or reviewing and require assistance, 
 
 **Workspace-** The workspace is where the TEE Labelling project is stored. This includes all of the constituent projects, datasets, ontologies, etc.
 
-**Project-** Each project in the workspace comprises a single step in the workflow. Projects include one labelling task, and at least one reviewing task. A project requries an ontology to apply labels and data rows to apply labels to. 
+**Project-** Each project in the workspace comprises a single step in the workflow. Projects include one labelling task, and at least one reviewing task. A project requires an ontology to apply labels and data rows to apply labels to. 
 
 **Ontology-** An ontology is a set of labels that are to be applied during the labelling step of a project. Different ontologies can share labels.
 
@@ -38,7 +38,7 @@ If you encounter a problem while labelling or reviewing and require assistance, 
 
 **Catalog-** The catalog includes all datasets in a workspace.
 
-**Dataset-** A dataset is a set of data rows that has been uploaded to labelbox.
+**Dataset-** A dataset is a set of data rows that has been uploaded to LabelBox.
 
 **Batch-** A batch is a grouping of data rows made from a dataset. 
 

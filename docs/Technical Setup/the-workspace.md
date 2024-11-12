@@ -12,7 +12,7 @@ The workspace contains all of your projects. There is one workspace per organiza
 You can access the workspace by clicking on the "Annotate" tab on the left side of the page.
 
 ## Projects:
-Each project represents an individual labelling task. Data rows are input into projects as batches, labelled once, reviewied, and then can be input into a different project or exported.
+Each project represents an individual labelling task. Data rows are input into projects as batches, labelled once, reviewed, and then can be input into a different project or exported.
 
 ### Project Tabs:
 When you select a project, you will notice there are multiple tabs at the top of the page. A summary of each tab is provided below:
@@ -39,7 +39,7 @@ Ontologies can share annotations. An example is provided below:
 ---
 
 ### Working With Multiple Projects:
-Using multiple projects is a means of introducting multiple labelling steps. When I designed the workflow, I chose to use multiple projects since it will allow for data rows to be filtered based on labels applied to them. Practically, this was so that videos that are unusable are not included in longer labelling tasks. The SDK can be used to perform this tasks of filtering data rows and passing them between projects automatically. Below are some notes on these two tasks and how they are done.
+Using multiple projects is a means of introducing multiple labelling steps. When I designed the workflow, I chose to use multiple projects since it will allow for data rows to be filtered based on labels applied to them. Practically, this was so that videos that are unusable are not included in longer labelling tasks. The SDK can be used to perform this tasks of filtering data rows and passing them between projects automatically. Below are some notes on these two tasks and how they are done.
 
 **Filtering Data-** Data can be filtered before it is added to a batch. You can create this filter to exclude or include data rows with any property, including labels you have already applied. You can try this for yourself by using the "search your data" field in any project or in the catalog.
 

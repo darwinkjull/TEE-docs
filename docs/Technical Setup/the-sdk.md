@@ -2,7 +2,7 @@
 title: 'The SDK'
 author: 'Darwin Jull'
 date: '2024-11-07'
-last_modified_date: '2024-11-11'
+last_modified_date: '2024-11-12'
 ---
 
 The Software Development Kit (SDK) for LabelBox is a set of tools and functions provided by LabelBox to programmatically modify a workspace.
@@ -16,7 +16,7 @@ The SDK is used in this project to accomplish the following tasks:
 
 ### Working on the SDK:
 
-A guide on working with the SDK is provided on the [LabelBox documementation site](https://docs.labelbox.com/reference/getting-started).
+A guide on working with the SDK is provided on the [LabelBox documentation site](https://docs.labelbox.com/reference/getting-started).
 
 The repository for this project's SDK files is available [here](https://github.com/darwinkjull/TEE-Labelbox-SDK).
 
