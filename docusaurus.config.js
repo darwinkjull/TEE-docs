@@ -18,12 +18,13 @@ const config = {
   url: 'https://darwinkjull.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/TEE-Labelbox-Docs/',
+  baseUrl: '/TEE-Docs/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'darwinkjull', // Usually your GitHub org/user name.
-  projectName: 'TEE-Labelbox-Docs', // Usually your repo name.
+  projectName: 'TEE-Docs', // Usually your repo name.
+  trailingSlash: false,
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -70,7 +71,7 @@ const config = {
             label: 'Documentation',
           },
           {
-            href: 'https://github.com/darwinkjull/TEE-Labelbox-Docs',
+            href: 'https://github.com/darwinkjull/TEE-Docs',
             label: 'GitHub',
             position: 'right',
           },
